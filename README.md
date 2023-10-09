@@ -1,6 +1,6 @@
 # swaav
 
-An Afdal X Project.
+A grocery app with chat
 
 ## Getting Started
 
